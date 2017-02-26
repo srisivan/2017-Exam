@@ -2,9 +2,9 @@
 # Biology
 
 # Table of contents
-1. [Blood] (# Blood)
-2. [Heart] (# Heart)
-3. [Structure of Heart] (# Structure of Heart)
+1. [Blood] (### Blood)
+2. [Heart] (### Heart)
+3. [Structure of Heart] (### Structure of Heart)
 
 ## Chapter 1 : Transportation in animals and plants.
 
