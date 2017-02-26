@@ -1,9 +1,4 @@
 
-# Table of contents
-1.[Biology] (# Biology)
-2.[Physics] (# Physics)
-
-
 # Biology
 
 # Table of contents
