@@ -1,11 +1,6 @@
 
 # Biology
 
-# Table of contents
-1. [Blood] (### Blood)
-2. [Heart] (### Heart)
-3. [Structure of Heart] (### Structure of Heart)
-
 ## Chapter 1 : Transportation in animals and plants.
 
 ### Blood
@@ -53,3 +48,8 @@ Heart has 5 pipe like structures (Helping in the transportation of blood), which
 
 The phase when both the oxygenated and the de-oxygenated blood enters the heart through the _superior vena cava_ and _inferior vena cava_ is called *Diastole*
 The phase when they are pumped out of _pulmonary artery_ and _aorta_ is called *Systole*
+
+
+The Heart,Blood and blood vessels are collectively known as the _Circulatory System_
+
+
